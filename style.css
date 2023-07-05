@@ -164,6 +164,26 @@ img[desc="business-logo"]{
   height: 30px;
 }
 
-.row{
-  display: flex;
+img[alt="dog"]{
+  
+}
+
+.dog-text{
+  font-style: italic;
+}
+
+
+.footer{
+  
+  color: #ffffff;
+  background-size: 180% 180%;
+  
+}
+
+.flex-column{
+  color: #000;
+}
+
+h5{
+  color: #000;
 }
